@@ -1,1 +1,7 @@
-
+Bug_id: 1
+Title: На странице "Карта сайта" отсутсвует информация
+Environment:cat/etc/os-release. Google Chrome Версия 90.0.4430.212
+Stepes to reproduce: перейти на страницу "карта сайта" http://logoysk.gov.by/sitemap
+Actual result: отсутствует информация на странице Карта сайта
+Expected result: на странице есть информация либо картинка Карты сайта
+Attachments: Image link https://drive.google.com/drive/u/1/folders/1ECq98Wrn1GUzc0Zw8XZk1r0mJLZQRfhc
